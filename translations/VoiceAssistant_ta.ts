@@ -258,28 +258,28 @@ Joke languages: %2</source>
 &lt;h3&gt;Credits&lt;/h3&gt;
 &lt;p&gt;This project uses &lt;a href=&quot;https://github.com/alphacep/vosk-api&quot;&gt;Vosk&lt;/a&gt; which is licensed under the &lt;a href=&quot;https://github.com/alphacep/vosk-api/blob/master/COPYING&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This project also uses&amp;nbsp;&lt;a href=&quot;https://github.com/Sygmei/11Zip&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;11Zip&lt;/a&gt;&amp;nbsp;to unpack the downloaded voice models.&lt;/p&gt;</source>
-        <translation>&lt;H1&gt; குரல் உதவியாளர் &lt;/H1&gt;
- &lt;p&gt; சி ++ இல் எழுதப்பட்ட வள-திறமையான மற்றும் தனிப்பயனாக்கக்கூடிய குரல் உதவியாளர். &lt;/p&gt;
- &lt;H3&gt; பற்றி &lt;/H3&gt;
- &lt;அட்டவணை எல்லை = &quot;0&quot; பாணி = &quot;எல்லை-கோலாப்ச்: சரிவு; அகலம்: 100%;&quot;&gt;
- &lt;Tbody&gt;
- &lt;tr&gt;
- &lt;td சூல் தண்டு = &quot;உரை-சீரமை: சரி; திணிப்பு-வலது: 5px;&quot;&gt; பதிப்பு: &lt;/td&gt;
- &lt;td சூல் தண்டு = &quot;உரை-சீரமை: இடது; திணிப்பு-இடது: 5px;&quot;&gt;%1 &lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td சூல் தண்டு = &quot;உரை-சீரமை: சரி; திணிப்பு-வலது: 5px;&quot;&gt; கியுடி பதிப்பு: &lt;/td&gt;
- &lt;td சூல் தண்டு = &quot;உரை-சீரமை: இடது; திணிப்பு-இடது: 5px;&quot;&gt;%2 &lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td சூல் தண்டு = &quot;உரை-சீரமை: சரி; திணிப்பு-வலது: 5px;&quot;&gt; முகப்புப்பக்கம்: &lt;/td&gt;
- &lt;td சூல் தண்டு = &quot;text-align: இடது; திணிப்பு-இடது: 5px;&quot;
- &lt;/tr&gt;
- &lt;/tbody&gt;
- &lt;/அட்டவணை&gt;
- &lt;H3&gt; வரவு &lt;/H3&gt;
- &lt;p&gt; இந்த திட்டம் &lt;a href = &quot;https://github.com/alphacep/vosk-api&quot;&gt; Vosk &lt;/a&gt; ஐப் பயன்படுத்துகிறது, இது &lt;a href = &quot;https://github.com/alphacep/vosk-api/blob/blob/master/copiing&quot;&gt;
- &lt;p&gt; இந்த திட்டம் &amp; nbsp;</translation>
+        <translation>&lt;h1&gt;குரல் உதவியாளர்&lt;/h1&gt;
+&lt;p&gt;சி ++ இல் எழுதப்பட்ட வள-திறமையான மற்றும் தனிப்பயனாக்கக்கூடிய குரல் உதவியாளர். &lt;/p&gt;
+&lt;h3&gt;பற்றி&lt;/h3&gt;
+&lt;table border=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: right; padding-right: 5px;&quot;&gt;பதிப்பு:&lt;/td&gt;
+&lt;td style=&quot;text-align: left; padding-left: 5px;&quot;&gt;%1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: right; padding-right: 5px;&quot;&gt;கியுடி பதிப்பு:&lt;/td&gt;
+&lt;td style=&quot;text-align: left; padding-left: 5px;&quot;&gt;%2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: right; padding-right: 5px;&quot;&gt;முகப்புப்பக்கம்:&lt;/td&gt;
+&lt;td style=&quot;text-align: left; padding-left: 5px;&quot;&gt;&lt;a href=&quot;https://github.com/tim-gromeyer/VoiceAssistant&quot;&gt;https://github.com/tim-gromeyer/VoiceAssistant&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;வரவு&lt;/h3&gt;
+&lt;p&gt; இந்தத் திட்டம்&lt;a href=&quot;https://github.com/alphacep/vosk-api&quot;&gt;Vosk&lt;/a&gt;ஐப் பயன்படுத்துகிறது, இது &lt;a href=&quot;https://github.com/alphacep/vosk-api/blob/master/COPYING&quot;&gt;அப்பாசி உரிமம் 2.0&lt;/a&gt;பயன்படுத்துகிறது.&lt;/p&gt;
+&lt;p&gt;This project also uses&amp;nbsp;&lt;a href=&quot;https://github.com/Sygmei/11Zip&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;11Zip&lt;/a&gt;&amp;nbsp;to unpack the downloaded voice models.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../src/mainwindow.cpp" line="311"/>
@@ -527,7 +527,7 @@ Copy following text and save it manually:
     <message>
         <location filename="../src/modeldownloader.cpp" line="390"/>
         <source>Downloaded</source>
-        <translation>பதிவிறக்கம்</translation>
+        <translation>பதிவிறக்கபட்டது</translation>
     </message>
 </context>
 <context>
@@ -705,12 +705,12 @@ Copy following text and save it manually:
     <message>
         <location filename="../plugins/weather/weatherplugin.cpp" line="25"/>
         <source>is it going to rain</source>
-        <translation>மழை பெய்யுமா?</translation>
+        <translation>மழை பெய்யுமா</translation>
     </message>
     <message>
         <location filename="../plugins/weather/weatherplugin.cpp" line="29"/>
         <source>is it sunny today</source>
-        <translation>இன்று வெயில்?</translation>
+        <translation>இன்று வெயிலா</translation>
     </message>
     <message>
         <location filename="../plugins/weather/weatherplugin.cpp" line="32"/>
@@ -720,7 +720,7 @@ Copy following text and save it manually:
     <message>
         <location filename="../plugins/weather/weatherplugin.cpp" line="35"/>
         <source>is there a chance of thunderstorms</source>
-        <translation>இடியுடன் கூடிய மழை வாய்ப்பு உள்ளதா?</translation>
+        <translation>இடியுடன் கூடிய மழை வாய்ப்பு உள்ளதா</translation>
     </message>
     <message>
         <location filename="../plugins/weather/weatherplugin.cpp" line="38"/>
@@ -918,19 +918,19 @@ Press &apos;Next&apos; to continue.</source>
         <location filename="../src/utils.cpp" line="47"/>
         <location filename="../src/utils.cpp" line="71"/>
         <source>thousand</source>
-        <translation>thousand</translation>
+        <translation>ஆயிரம்</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="48"/>
         <location filename="../src/utils.cpp" line="72"/>
         <source>million</source>
-        <translation>million</translation>
+        <translation>மில்லியன்</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="49"/>
         <location filename="../src/utils.cpp" line="73"/>
         <source>billion</source>
-        <translation>billion</translation>
+        <translation>பில்லியன்</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="58"/>
@@ -940,7 +940,7 @@ Press &apos;Next&apos; to continue.</source>
     <message>
         <location filename="../src/utils.cpp" line="60"/>
         <source>and</source>
-        <translation>and</translation>
+        <translation>மற்றும்</translation>
     </message>
 </context>
 <context>
@@ -958,17 +958,17 @@ Press &apos;Next&apos; to continue.</source>
     <message>
         <location filename="../src/utils.cpp" line="190"/>
         <source>%1 hour(s), %2 minute(s)</source>
-        <translation>%1 hour(s), %2 minute(s)</translation>
+        <translation>%1 மணி, %2 நிமையங்கள்</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="195"/>
         <source>%1 day(s), %2 hour(s)</source>
-        <translation>%1 day(s), %2 hour(s)</translation>
+        <translation>%1 நாள்(கள்), %2 மணி(கள்)</translation>
     </message>
     <message>
         <location filename="../src/utils.cpp" line="200"/>
         <source>%1 year(s), %2 day(s)</source>
-        <translation>%1 year(s), %2 day(s)</translation>
+        <translation>%1 ஆண்டு(கள்), %2 நாள்(கள்)</translation>
     </message>
 </context>
 </TS>
